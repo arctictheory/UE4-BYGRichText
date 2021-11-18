@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 //#include "BYGRichTextProperty.h"
 #include "BYGStyleDisplayType.h"
-#include "BYGRIchTextStyle.generated.h"
+#include "BYGRichTextStyle.generated.h"
 
 class UBYGRichTextPropertyBase;
 

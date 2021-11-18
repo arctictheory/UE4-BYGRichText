@@ -8,7 +8,7 @@
 #include "Framework/Text/ITextLayoutMarshaller.h"
 #include "Framework/Text/RichTextLayoutMarshaller.h"
 #include <Engine/DataAsset.h>
-#include "BYGRIchTextStylesheet.generated.h"
+#include "BYGRichTextStylesheet.generated.h"
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE( FBYGOnStylesheetPropertiesChangedSignature );
 
