@@ -17,7 +17,7 @@
 	"Modules": [
 		{
 			"Name": "BYGRichText",
-			"Type": "Runtime",
+			"Type": "ClientOnly",
 			"LoadingPhase": "PostDefault"
 		},
 		{
